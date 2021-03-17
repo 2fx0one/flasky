@@ -1,2 +1,2 @@
 # flasky
-flask web development， by flashy
+flask web development， by flasky
